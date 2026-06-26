@@ -1,4 +1,4 @@
-# RAG - Project Intelligence Assistant
+# Project Intelligence Assistant (RAG)
 
 A citation-grounded Q&A system over engineering, legal, finance, and procurement documents. Every answer cites the exact source file and page it came from — built on the same embed-store-retrieve pattern that powers retrieval-augmented generation (RAG) in modern LLM applications.
 
